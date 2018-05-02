@@ -1,0 +1,23 @@
+{
+  "Services": [
+    "Geoloc"
+  ],
+  "Environment": "Prod",
+  "Cheat": "False",
+  "AndroidStore": "Google",
+  "DevelopmentVersion": "JW2018_GameClient_1.1.23",
+  "IsLocal": "False",
+  "GameBranch": "1.1.x",
+  "GameName": "Jurassic World 2018",
+  "GamePrefix": "j18",
+  "GameVersion": "1.1.23",
+  "GameKey": "JW2018",
+  "PrivateKey": "f273a0e1d1eadd6c735fbb66c428bfe7bf94d4cc",
+  "JazzEnv": "test",
+  "ServerProtocol": "9",
+  "AppleAppId": "1231085864",
+  "AdjustAppToken": "1gnvbtsv5myo",
+  "FacebookAppId": "836674766505938",
+  "AmplitudeApiKey": "4b1f8d4873ab0a19ad23d7ea2a413265",
+  "StoreURL": "https://play.google.com/store/apps/details?id=com.ludia.jw2"
+}

@@ -1,0 +1,71 @@
+string m_Name = ""
+SerializedShader m_ParsedForm
+	SerializedProperties m_PropInfo
+		vector m_Props
+			Array Array
+			int size = 0
+	vector m_SubShaders
+		Array Array
+		int size = 0
+	string m_Name = ""
+	string m_CustomEditorName = ""
+	string m_FallbackName = ""
+	vector m_Dependencies
+		Array Array
+		int size = 0
+	bool m_DisableNoSubshadersMessage = False
+vector platforms
+	Array Array
+	int size = 2
+		[0]
+		unsigned int data = 5
+		[1]
+		unsigned int data = 9
+vector offsets
+	Array Array
+	int size = 2
+		[0]
+		unsigned int data = 0
+		[1]
+		unsigned int data = 5
+vector compressedLengths
+	Array Array
+	int size = 2
+		[0]
+		unsigned int data = 5
+		[1]
+		unsigned int data = 5
+vector decompressedLengths
+	Array Array
+	int size = 2
+		[0]
+		unsigned int data = 4
+		[1]
+		unsigned int data = 4
+vector compressedBlob
+	Array Array
+	int size = 10
+		[0]
+		UInt8 data = 64
+		[1]
+		UInt8 data = 0
+		[2]
+		UInt8 data = 0
+		[3]
+		UInt8 data = 0
+		[4]
+		UInt8 data = 0
+		[5]
+		UInt8 data = 64
+		[6]
+		UInt8 data = 0
+		[7]
+		UInt8 data = 0
+		[8]
+		UInt8 data = 0
+		[9]
+		UInt8 data = 0
+vector m_Dependencies
+	Array Array
+	int size = 0
+bool m_ShaderIsBaked = True
